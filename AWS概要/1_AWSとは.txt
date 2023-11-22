@@ -1,11 +1,11 @@
 オンプレの問題
-→オンプレは機材の導入に時間やコストがかかる
+    オンプレは機材の導入に時間やコストがかかる
 
 問題解決方法
 ※ AWSによるクラウドサービスの利用
 利点
-・AWSは数分でインターネット経由でサーバーを立ち上げれて、かつ無料枠もある(12ヶ月無料)
-    以下の制限付き(一例)
+    AWSは数分でインターネット経由でサーバーを立ち上げれて、かつ無料枠もある(12ヶ月無料)
+        以下の制限付き(一例)
         EC2はt2Microまたはt3Microのみで、月に750時間の稼働のみ
 
 参考サイト
@@ -13,3 +13,6 @@ AWS無料利用枠
 https://aws.amazon.com/jp/free/?gclid=Cj0KCQiApOyqBhDlARIsAGfnyMroDLim6kWrT1y-m9tv5Qdyc2vtVCWMtw0VHyLS6DGZPV0me_YrZpgaAkltEALw_wcB&trk=7a0ad9f4-69f7-49ae-8863-8f5f1db82b36&sc_channel=ps&ef_id=Cj0KCQiApOyqBhDlARIsAGfnyMroDLim6kWrT1y-m9tv5Qdyc2vtVCWMtw0VHyLS6DGZPV0me_YrZpgaAkltEALw_wcB:G:s&s_kwcid=AL!4422!3!618145042463!p!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
 
 
+AWSのデメリット
+    独自のサーバーレスなどのサービスを利用すると、EC2からオンプレサーバーまたはGCPなどのクラウドサービスに移行ができない。
+        ベンダーロック(環境依存などする)
