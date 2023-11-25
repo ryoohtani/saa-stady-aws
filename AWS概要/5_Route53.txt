@@ -1,3 +1,4 @@
 Route53とは
     IPアドレスが右のようなIPだとして142.251.222.46、Route53つまりDNSサーバー(Domain Name System)の役割をすることで
     google.comなどにするとユーザーは分かりやすくなる。
+    遅延
