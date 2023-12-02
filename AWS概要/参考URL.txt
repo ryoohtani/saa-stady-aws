@@ -1,2 +1,3 @@
 KDDIのWavelength Zone
 https://biz.kddi.com/5g/aws_wavelength/
+
