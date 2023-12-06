@@ -5,4 +5,4 @@ VPN（Virtual Private Network）
     安全な通信を行うための仮想的なネットワーク。VPNを使用することで、インターネット上の通信を暗号化し、個人情報やデータを保護する
 
 VPC（Virtual Private Cloud）
-    VPCはクラウド環境でのプライベートネットワークの構築　
+    VPCはクラウド環境でのプライベートネットワークの構築
