@@ -6,4 +6,3 @@ VPN（Virtual Private Network）
 
 VPC（Virtual Private Cloud）
     VPCはクラウド環境でのプライベートネットワークの構築
-  　
