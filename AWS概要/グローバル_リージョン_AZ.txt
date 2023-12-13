@@ -1,0 +1,25 @@
+グローバルサービス
+    Cloud Front
+    Cloud Trail
+    IAM
+    Route53
+    STS
+    WAF
+
+リージョンサービス
+    S3
+    AMI
+    API Gateway
+    Auto Scaling
+    Cloud Watch
+    Dyname DB
+    VPC Endpoints
+    
+AZサービス
+    EC2
+    EFS
+    ELB
+    RDS
+    RedShift
+    サブネット
+    ネットワークACL
