@@ -14,7 +14,7 @@
     Cloud Watch
     Dyname DB
     VPC Endpoints
-    
+    　
 AZサービス
     EC2
     EFS
