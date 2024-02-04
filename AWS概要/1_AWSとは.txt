@@ -15,4 +15,4 @@ https://aws.amazon.com/jp/free/?gclid=Cj0KCQiApOyqBhDlARIsAGfnyMroDLim6kWrT1y-m9
 
 AWSのデメリット
     独自のサーバーレスなどのサービスを利用すると、EC2からオンプレサーバーまたはGCPなどのクラウドサービスに移行ができない。
-        ベンダーロック(環境依存などする)
+        ベンダーロック(環境依存などする) 
